@@ -2,9 +2,10 @@ Este projeto é um sistema web desenvolvido em Python com o framework Flask, que
 
 O objetivo é demonstrar o conceitos de rotas, formulários, integração com banco de dados e front-end, servindo como um exercício prático de desenvolvimento web e organização modular em Flask.
 
-Instalar flask e pandas via pip install, ou utilizar o requeriments.
+Instalar flask e pandas via pip install, ou utilizar o requeriments.<br>
 -pip install flask pandas
 -pip install -r requirements.txt
 
 Inicializar no terminal com "python app.py"
+
 

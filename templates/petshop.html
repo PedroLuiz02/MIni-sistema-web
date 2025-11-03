@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../static/petshop.css">
+    <title>PetShop</title>
+</head>
+<body>
+    <div class="box">
+        <a href="/" id="back"><span>< Voltar</span></a>
+        <h2>PetShop</h2>
+        <div class="form">
+            <form method="POST">
+                <div class="input-group">
+                    <label for="dono">Nome do Dono:</label>
+                    <input type="text" name="dono" id="dono" placeholder="Nome do Dono">
+                </div>
+                <div class="input-group">
+                    <label for="nome">Nome do Pet:</label>
+                    <input type="text" name="nome" id="nome" placeholder="Nome do Pet">
+                </div>
+                <div class="input-group">
+                    <label for="especie">Espécie:</label>
+                    <input type="text" name="especie" id="especie" placeholder="Espécie do Pet">
+                </div>
+                <div class="input-group">
+                    <label for="raca">Raça:</label>
+                    <input type="text" name="raca" id="raca" placeholder="Raça do Pet">
+                </div>
+                <div class="input-group">
+                    <label for="sexo">Sexo:</label>
+                    <input type="text" name="sexo" id="sexo" placeholder="Sexo do Pet">
+                </div>
+                <div class="input-group">
+                    <label for="cor">Cor:</label>
+                    <input type="text" name="cor" id="cor" placeholder="Cor do Pet">
+                </div>
+                <div class="input-group">
+                    <label for="castrado">Castrado:</label>
+                    <input type="text" name="castrado" id="castrado" placeholder="Castrado">
+                </div>
+                <div class="input-group">
+                    <label for="peso">Peso:</label>
+                    <input type="number" name="peso" id="peso" placeholder="Peso do Pet">
+                </div>
+                <div class="input-group">
+                    <label for="tamanho">Tamanho:</label>
+                    <input type="number" name="tamanho" id="tamanho" placeholder="Tamanho do Pet">
+                </div>
+            
+                <button type="submit">Buscar</button>
+            </form>
+        </div>
+
+        <div class="resultado">
+            {% if resultados is not none %}
+            {% if resultados %}
+            <h2>Resultados Encontrados ({{ total_resultados }})</h2>
+            <table class="tabela">
+                <tr>
+                    <th>Dono</th>
+                    <th>Nome</th>
+                    <th>Espécie</th>
+                    <th>Raça</th>
+                    <th>Sexo</th>
+                    <th>Cor</th>
+                    <th>Castrado</th>
+                    <th>Peso (KG)</th>
+                    <th>Tamanho (CM)</th>
+                </tr>
+                {% for pet in resultados %}
+                <tr>
+                    <td>{{ pet.Dono }}</td>
+                    <td>{{ pet.Nome }}</td>
+                    <td>{{ pet.Especie }}</td>
+                    <td>{{ pet.Raca }}</td>
+                        <td>{{ pet.Sexo }}</td>
+                        <td>{{ pet.Cor }}</td>
+                        <td>{{ pet.Castrado }}</td>
+                        <td>{{ pet.Peso_KG }}</td>
+                        <td>{{ pet.Tamanho_CM }}</td>
+                    </tr>
+                    {% endfor %}
+                </table>
+                {% else %}
+                <p>Nenhum pet encontrado</p>
+                {% endif %}
+                {% endif %}
+            </div>
+            
+        </div>
+    </body>
+</html>

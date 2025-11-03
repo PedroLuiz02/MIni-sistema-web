@@ -1,0 +1,119 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(120deg, #538f6c, rgba(39, 124, 103, 0.548));
+  color: black;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.box {
+  border-radius: 5px;
+  background-color: #7ebd9d;
+  width: 60rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 1rem;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.box h2{
+  text-align: center;
+}
+
+.resultado {
+  background: #639475;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 0.47rem 0;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow-x: auto;
+  text-align: center;
+}
+
+.tabela {
+  border-collapse: collapse;
+  width: 100%;
+  background: rgb(250, 250, 220);
+  border-radius: 10px;
+  overflow: hidden;
+  text-align: center;
+}
+
+.tabela th {
+  background-color: rgb(215, 228, 199);
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.tabela th, .tabela td {
+  padding: 0.8rem;
+  border-bottom: 1px solid #ccc;
+}
+
+.form form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.form form label, .form form input {
+  display: block;
+}
+
+.form form .input-group {
+  width: calc(50% - 0.5rem);
+  display: flex;
+  flex-direction: column;
+}
+
+input[type="text"], input[type="number"] {
+  padding: 0.5rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 0.7rem 1.5rem;
+  border: none;
+  border-radius: 5px;
+  background-color: #639475;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  margin-top: 1rem;
+  flex-basis: 100%;
+  transform: scale(0.98);
+  transition: 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: #527960;
+  transition: 0.3s ease-in-out;
+  transform: scale(1.0);
+}
+
+#back {
+  display: inline-block;
+  text-align: left;
+  width: 100%;
+  color: #32463a;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+
+#back:hover {
+  color: #4e705b;
+  transition: 0.2s;
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Análise de Personalidade</title>
+    <link rel="stylesheet" href="../static/personality.css">
+</head>
+<body>
+    <div class="container">
+         <a href="/" id="back"><span>< Voltar</span></a>
+
+        <h1>Análise de Personalidade</h1>
+        <form action="/analyze_personality" method="post">
+                <label for="name">Nome:</label>
+                <input type="text" name="name" id="name" required><br>
+
+                <label for="age">Idade:</label>
+                <input type="number" name="age" id="age" required><br>
+
+                <label for="movie_genre">Gênero de filmes favorito:</label>
+                <select name="movie_genre" id="movie_genre" required>
+                    <option value="terror">Terror</option>
+                    <option value="suspense">Suspense</option>
+                    <option value="comédia">Comédia</option>
+                <option value="ação">Ação</option>
+            </select><br>
+            <label for="likes_studying">Gosta de estudar?</label>
+            <select name="likes_studying" id="likes_studying" required>
+                <option value="sim">Sim</option>
+                <option value="não">Não</option>
+            </select><br>
+            <label for="programming_language">Linguagem de programação preferida:</label>
+            <select name="programming_language" id="programming_language" required>
+                <option value="Python">Python</option>
+                <option value="Java">Java</option>
+                <option value="C">C</option>
+            </select><br>
+            <label for="likes_beach">Gosta de praia?</label>
+            <select name="likes_beach" id="likes_beach" required>
+                <option value="sim">Sim</option>
+                <option value="não">Não</option>
+            </select><br>
+            <input type="submit" value="Analisar">
+        </form>
+    </div>
+</body>
+</html>

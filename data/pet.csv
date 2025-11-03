@@ -1,0 +1,239 @@
+Dono,Nome,Especie,Raca,Sexo,Cor,Castrado,Peso_KG,Tamanho_CM
+Fabio Silva,Tobi,Cachorro,Labrador,Macho,Preto,Sim,18.0,60
+Ana Costa,Miau,Gato,Siamês,Fêmea,Creme,Sim,4.2,30
+Pedro Souza,Rex,Cachorro,Pastor Alemão,Macho,Marrom e Preto,Não,35.5,75
+Mariana Lima,Kiara,Gato,Persa,Fêmea,Branco,Sim,5.8,28
+João Santos,Belinha,Cachorro,Poodle,Fêmea,Branco,Sim,5.0,35
+Lucia Oliveira,Pipo,Gato,Vira-Lata,Macho,Tigrado,Não,4.5,32
+Carlos Mendes,Thor,Cachorro,Golden Retriever,Macho,Dourado,Sim,32.1,65
+Sofia Gomes,Luna,Coelho,Holandês,Fêmea,Cinza,Não,2.5,40
+Ricardo Alvez,Kiko,Pássaro,Calopsita,Macho,Amarelo e Cinza,Não,0.1,20
+Beatriz Rocha,Pipoca,Cachorro,Shih Tzu,Fêmea,Marrom,Sim,7.8,25
+Felipe Nogueira,Sushi,Gato,Maine Coon,Macho,Malhado,Sim,7.0,40
+Isabela Vieira,Max,Cachorro,Buldogue Francês,Macho,Preto,Sim,13.5,38
+Guilherme Pinto,Penélope,Gato,Ragdoll,Fêmea,Branco e Cinza,Sim,6.0,35
+Camila Ferreira,Bolt,Cachorro,Yorkshire,Macho,Preto e Dourado,Não,3.2,28
+Daniel Reis,Amora,Roedor,Porquinho-da-índia,Fêmea,Marrom,Não,1.0,25
+Helena Barros,Oliver,Cachorro,Dachshund,Macho,Caramelo,Sim,10.1,30
+Bruno Correia,Jade,Gato,Siamês,Fêmea,Creme,Sim,3.9,29
+Patricia Melo,Duque,Cachorro,Rottweiler,Macho,Preto e Canela,Sim,45.0,70
+Alexandre Gomes,Estrela,Cachorro,Vira-Lata,Fêmea,Bege,Não,15.0,55
+Vanessa Castro,Lorde,Gato,Sphynx,Macho,Rosa,Sim,5.5,33
+Gabriel Rocha,Zoe,Cachorro,Boxer,Fêmea,Dourado e Branco,Sim,28.0,62
+Laura Naves,Milo,Gato,Bengal,Macho,Manchado,Não,5.1,34
+Thiago Santos,Koda,Cachorro,Husky Siberiano,Macho,Preto e Branco,Sim,22.5,58
+Renata Vieira,Princesa,Cachorro,Chihuahua,Fêmea,Caramelo,Sim,2.1,20
+Diego Alves,Mingau,Gato,Vira-Lata,Macho,Laranja,Não,4.8,31
+Paula Lima,Nina,Cachorro,Cocker Spaniel,Fêmea,Marrom,Sim,13.0,45
+Eduardo Souza,Pingo,Pássaro,Periquito,Macho,Verde,Não,0.05,15
+Fernanda Melo,Mel,Cachorro,Bichon Frisé,Fêmea,Branco,Sim,6.5,30
+Gustavo Mendes,Romeu,Gato,Persa,Macho,Cinza,Não,6.2,29
+Cristina Dias,Lilo,Cachorro,São Bernardo,Macho,Marrom e Branco,Não,60.0,85
+Rafael Torres,Wendy,Coelho,Mini Lop,Fêmea,Branco e Marrom,Sim,1.5,30
+Monica Barros,Frajola,Gato,Europeu,Macho,Preto e Branco,Sim,4.7,33
+Sergio Lopes,Bela,Cachorro,Maltês,Fêmea,Branco,Sim,4.0,25
+Juliana Reis,Scooby,Cachorro,Dogue Alemão,Macho,Tigrado,Não,70.0,90
+Arthur Costa,Luluzinha,Gato,Scottish Fold,Fêmea,Cinza,Sim,4.1,27
+Viviane Pires,Hulk,Cachorro,Pit Bull,Macho,Cinza,Sim,25.0,55
+Roberto Alves,Nemo,Roedor,Hamster Sírio,Macho,Dourado,Não,0.15,10
+Leticia Santos,Bolinha,Cachorro,Pug,Fêmea,Bege,Sim,8.5,35
+Henrique Rocha,Ziggy,Gato,Siamês,Macho,Creme,Não,4.0,30
+Marina Souza,Duquesa,Cachorro,Poodle Toy,Fêmea,Preto,Sim,3.0,22
+Wagner Lima,Simba,Gato,Maine Coon,Macho,Marrom,Sim,7.5,45
+Adriana Pires,Dama,Cachorro,Setter Irlandês,Fêmea,Vermelho,Não,30.0,65
+Tiago Gomes,Bilu,Gato,Vira-Lata,Macho,Branco,Sim,4.3,31
+Simone Ferreira,Fred,Cachorro,Vira-Lata,Macho,Caramelo,Sim,17.5,58
+Marcio Nogueira,Melody,Pássaro,Canário,Fêmea,Amarelo,Não,0.03,12
+Tania Melo,Kira,Cachorro,Border Collie,Fêmea,Preto e Branco,Sim,19.0,50
+Flavio Dias,Gato Felix,Gato,Burmese,Macho,Sable,Não,5.5,36
+Elisa Mendes,Bruce,Cachorro,Buldogue Inglês,Macho,Tigrado,Sim,24.0,40
+Vitor Barros,Juba,Roedor,Gerbil,Fêmea,Areia,Não,0.1,8
+Gisele Vieira,Charlie,Cachorro,Vira-Lata,Macho,Preto,Sim,10.5,45
+Nelson Reis,Lilica,Gato,Ragdoll,Fêmea,Azul e Branco,Sim,5.2,34
+Débora Costa,Zeus,Cachorro,Labrador,Macho,Amarelo,Sim,30.5,60
+Mauro Silva,Jasmim,Coelho,Gigante de Flandres,Fêmea,Cinza,Não,6.0,55
+Cintia Alvez,Snow,Cachorro,Samoieda,Macho,Branco,Sim,23.0,53
+Renato Rocha,Pantera,Gato,Bombay,Fêmea,Preto,Sim,4.9,32
+Suzana Santos,Pequeno,Cachorro,Pinscher,Macho,Preto e Canela,Não,4.0,28
+Julio Cesar,Fiona,Gato,Chartreux,Fêmea,Azul,Sim,6.0,38
+Kelly Souza,Popeye,Cachorro,Beagle,Macho,Tricolor,Sim,12.0,38
+Luan Lima,Flor,Pássaro,Agapornis,Fêmea,Verde e Vermelho,Não,0.06,14
+Priscila Gomes,Chico,Cachorro,Vira-Lata,Macho,Marrom,Não,14.5,50
+Emilio Freitas,Cleo,Gato,American Shorthair,Fêmea,Malhado,Sim,5.0,33
+Bianca Silva,Whisky,Cachorro,Terrier Brasileiro,Macho,Branco e Marrom,Sim,8.0,35
+Marcelo Pires,Pandora,Gato,Exótico,Fêmea,Creme,Não,5.5,27
+Sandra Dias,Ringo,Cachorro,Welsh Corgi Pembroke,Macho,Caramelo e Branco,Sim,11.0,28
+Rodrigo Melo,Barth,Cachorro,Basset Hound,Macho,Tricolor,Não,28.0,35
+Adriano Torres,Shiva,Gato,Savannah,Fêmea,Manchado,Sim,8.5,45
+Carla Barros,Kátia,Roedor,Chinchila,Fêmea,Cinza,Não,0.7,28
+Erica Nogueira,Patches,Cachorro,Vira-Lata,Fêmea,Branco e Preto,Sim,11.5,48
+Mauro Rocha,Goku,Gato,Munchkin,Macho,Preto,Não,3.5,25
+Viviane Costa,Zezé,Cachorro,Poodle Miniatura,Macho,Cinza,Sim,4.5,28
+Paulo Ferreira,Laila,Gato,Siberiano,Fêmea,Tigrado,Sim,6.5,37
+Regina Lima,Trovão,Cachorro,Pastor Belga Malinois,Macho,Marrom,Sim,30.0,60
+Fernando Alvez,Bolinha,Coelho,Rex,Fêmea,Castanho,Sim,3.0,45
+Amanda Souza,Dengo,Cachorro,Cavalier King Charles,Macho,Tricolor,Sim,7.5,33
+Ricardo Mendes,Cleópatra,Gato,Mau Egípcio,Fêmea,Prateado,Não,4.5,35
+Heloisa Gomes,Estopinha,Cachorro,Vira-Lata,Fêmea,Branco,Não,16.0,52
+Joaquim Santos,Alfredo,Pássaro,Diamante de Gould,Macho,Colorido,Não,0.02,10
+Lorena Vieira,Pretinha,Gato,Vira-Lata,Fêmea,Preto,Sim,4.0,30
+Marcelo Lima,Popeye,Cachorro,Schnauzer Miniatura,Macho,Cinza,Sim,7.0,35
+Claudia Pires,Mel,Gato,Ragdoll,Fêmea,Branco e Bege,Sim,5.8,36
+Gustavo Barros,Odin,Cachorro,Cane Corso,Macho,Preto,Não,50.0,68
+Tatiane Silva,Soneca,Roedor,Twister (Rato),Macho,Preto,Não,0.4,20
+Lucas Oliveira,Nala,Cachorro,Golden Retriever,Fêmea,Dourado,Sim,28.5,60
+Ana Paula,Floquinho,Gato,Persa,Macho,Branco,Sim,5.5,26
+Marcos Souza,Marlene,Cachorro,Dachshund,Fêmea,Preto e Caramelo,Sim,9.5,28
+Eliane Reis,Boris,Gato,British Shorthair,Macho,Cinza,Sim,6.0,34
+Fábio Martins,Sansão,Cachorro,Rottweiler,Macho,Preto e Canela,Sim,55.0,72
+Vera Cruz,Pérola,Coelho,Mini Lop,Fêmea,Preto,Não,1.8,32
+Henrique Dias,Pingo,Cachorro,Shih Tzu,Macho,Branco e Marrom,Sim,6.5,23
+Cristian Lima,Kitty,Gato,Siamês,Fêmea,Creme,Sim,4.1,28
+Mariana Santos,Tigrão,Cachorro,Vira-Lata,Macho,Tigrado,Não,21.0,60
+Roberto Pires,Zeca,Pássaro,Canário,Macho,Amarelo,Sim,0.03,12
+Valéria Rocha,Duque,Cachorro,Labrador,Macho,Chocolate,Sim,31.0,61
+Pedro Oliveira,Estrela,Gato,Maine Coon,Fêmea,Malhado,Sim,6.8,42
+Aline Ferreira,Beto,Cachorro,Buldogue Francês,Macho,Branco,Sim,12.0,36
+Thiago Naves,Frajola,Gato,Vira-Lata,Macho,Preto e Branco,Não,5.0,35
+Luciano Reis,Dara,Cachorro,Doberman,Fêmea,Preto e Canela,Sim,33.0,63
+Carla Mendes,Bolota,Roedor,Porquinho-da-índia,Fêmea,Branco,Não,0.9,24
+Vinicius Gomes,Joca,Cachorro,Jack Russell Terrier,Macho,Branco e Marrom,Sim,7.0,30
+Patrícia Lima,Mulan,Gato,Persa,Fêmea,Cinza,Sim,5.6,27
+Marcelo Costa,Iron,Cachorro,Pit Bull,Macho,Marrom,Sim,26.5,56
+Renata Barros,Lua,Gato,Bengal,Fêmea,Manchado,Não,4.8,32
+Felipe Silva,Jojo,Cachorro,Pug,Macho,Preto,Sim,9.0,34
+Daniela Alvez,Tequila,Cachorro,Yorkshire,Fêmea,Preto e Dourado,Sim,3.5,29
+Alexandre Melo,Raj,Gato,Abissínio,Macho,Vermelho,Não,4.2,30
+Fernanda Dias,Zica,Cachorro,Vira-Lata,Fêmea,Caramelo,Não,9.5,42
+Eduardo Souza,Piu,Pássaro,Calopsita,Fêmea,Branco,Não,0.1,20
+Giselle Vieira,Apollo,Cachorro,Pastor Alemão,Macho,Sable,Sim,38.0,78
+Nelson Lima,Madame,Gato,Sphynx,Fêmea,Preto,Sim,4.0,30
+Bia Rocha,Thorzinho,Cachorro,Poodle Toy,Macho,Branco,Não,2.8,20
+Claudio Santos,Mandy,Gato,Ragdoll,Fêmea,Seal Point,Sim,5.9,35
+Débora Torres,Black,Cachorro,Labrador,Macho,Preto,Sim,33.0,62
+Erica Souza,Pipoca,Coelho,Coelho Anão,Fêmea,Branco,Não,1.2,25
+Flavio Mendes,Jolie,Cachorro,Cocker Spaniel,Fêmea,Dourado,Sim,14.0,48
+Gustavo Pires,Zorro,Gato,Bombay,Macho,Preto,Não,5.3,34
+Helena Ferreira,Mike,Cachorro,Boxer,Macho,Tigrado,Sim,30.0,64
+Igor Alves,Cleo,Gato,Maine Coon,Fêmea,Malhado,Sim,6.5,40
+Julia Lima,Duque,Cachorro,Rottweiler,Macho,Preto e Canela,Sim,50.0,75
+Katia Silva,Lady,Cachorro,Shih Tzu,Fêmea,Branco e Cinza,Sim,7.5,24
+Lucas Costa,Romeu,Gato,Vira-Lata,Macho,Cinza,Não,4.6,33
+Monica Dias,Tita,Cachorro,Vira-Lata,Fêmea,Marrom,Não,12.5,47
+Nelson Rocha,Léo,Gato,Persa,Macho,Branco,Sim,6.0,28
+Olivia Pires,Sol,Cachorro,Golden Retriever,Fêmea,Dourado,Sim,29.0,63
+Paulo Santos,Chiquinho,Pássaro,Periquito,Macho,Azul,Não,0.05,15
+Quiteria Vieira,Mel,Cachorro,Maltês,Fêmea,Branco,Sim,3.8,24
+Roberto Lima,Sombra,Gato,Siamês,Macho,Creme,Sim,4.0,30
+Sandra Mendes,Bruce,Cachorro,Buldogue Inglês,Macho,Branco e Tigrado,Não,25.0,42
+Tadeu Alvez,Puff,Roedor,Hamster Sírio,Fêmea,Marrom,Não,0.18,11
+Ursula Souza,Dora,Cachorro,Beagle,Fêmea,Tricolor,Sim,11.5,37
+Vitor Naves,Misty,Gato,Scottish Fold,Fêmea,Creme,Sim,4.3,28
+Wanda Silva,Fúria,Cachorro,Pastor Belga Malinois,Fêmea,Marrom,Sim,28.0,58
+Xavier Costa,Nino,Cachorro,Chihuahua,Macho,Preto,Não,2.5,22
+Yasmin Lima,Atena,Gato,Maine Coon,Fêmea,Cinza e Branco,Sim,7.2,43
+Zeca Pires,Golias,Cachorro,Dogue Alemão,Macho,Arlequim,Não,80.0,95
+Alice Barros,Fifi,Gato,Ragdoll,Fêmea,Branco e Azul,Sim,5.0,33
+Bernardo Reis,Flash,Cachorro,Whippet,Macho,Branco e Preto,Sim,12.0,48
+Cecília Melo,Chita,Gato,Bengal,Fêmea,Manchado,Sim,5.0,35
+Davi Santos,Klaus,Cachorro,Husky Siberiano,Macho,Cinza e Branco,Não,23.0,57
+Ester Ferreira,Nina,Coelho,Mini Lop,Fêmea,Cinza,Sim,1.7,31
+Fernando Torres,Paco,Cachorro,Pug,Macho,Bege,Sim,8.0,33
+Giovana Dias,Jade,Gato,Abissínio,Fêmea,Castanho,Sim,4.0,30
+Hugo Mendes,Zig,Pássaro,Agapornis,Macho,Amarelo,Não,0.07,16
+Inês Lima,Juba,Cachorro,Basset Hound,Fêmea,Marrom e Branco,Sim,25.0,34
+Jonas Silva,Whisky,Gato,British Shorthair,Macho,Azul,Sim,5.8,33
+Karen Souza,Thor,Cachorro,Boxer,Macho,Dourado,Não,31.0,65
+Luan Pires,Sasha,Gato,Vira-Lata,Fêmea,Laranja e Branco,Não,4.5,32
+Márcia Rocha,Belinha,Cachorro,Vira-Lata,Fêmea,Branco,Sim,14.0,50
+Nilo Gomes,Pancho,Roedor,Gerbil,Macho,Preto,Não,0.09,8
+Otávio Vieira,Meg,Cachorro,Border Collie,Fêmea,Vermelho e Branco,Sim,18.5,50
+Patrícia Cruz,Snowflake,Gato,Persa,Macho,Branco,Sim,5.2,27
+Quiteria Melo,Sultão,Cachorro,Rottweiler,Macho,Preto e Canela,Sim,48.0,71
+Rafael Barros,Minnie,Gato,Munchkin,Fêmea,Tricolor,Não,3.0,24
+Sônia Pires,Nick,Cachorro,Labrador,Macho,Amarelo,Sim,32.0,61
+Túlio Nogueira,Melody,Pássaro,Calopsita,Fêmea,Cinza,Não,0.1,19
+Ubiratan Silva,Kika,Cachorro,Shih Tzu,Fêmea,Dourado,Sim,7.0,22
+Vanda Costa,Gigi,Gato,Ragdoll,Macho,Seal Point,Sim,6.0,36
+Wilson Lima,Pluto,Cachorro,Vira-Lata,Macho,Preto,Não,19.0,55
+Xena Souza,Pipoca,Coelho,Rex,Fêmea,Preto,Sim,2.5,40
+Yago Gomes,Rambo,Cachorro,Pit Bull,Macho,Cinza,Sim,28.0,58
+Zara Santos,Mia,Gato,Sphynx,Fêmea,Creme,Não,4.8,32
+Abel Pires,Toby,Cachorro,Buldogue Francês,Macho,Preto,Sim,14.0,39
+Bruna Melo,Lilo,Gato,Siberiano,Macho,Tigrado,Sim,7.0,38
+Celso Dias,Cindy,Cachorro,Dachshund,Fêmea,Caramelo,Sim,10.0,30
+Diana Torres,Jade,Gato,Bengal,Fêmea,Manchado,Não,5.5,36
+Elias Barros,Nico,Cachorro,Poodle,Macho,Branco,Sim,5.5,38
+Fani Reis,Amora,Roedor,Porquinho-da-índia,Fêmea,Marrom,Não,1.1,26
+Gilberto Nogueira,Duquesa,Cachorro,Yorkshire,Fêmea,Preto e Dourado,Sim,3.0,27
+Helena Lima,Boris,Gato,Burmese,Macho,Champagne,Não,5.0,35
+Igor Santos,Tigre,Cachorro,Dogue Alemão,Macho,Fulvo,Não,75.0,92
+Janaína Vieira,Lumi,Gato,Maine Coon,Fêmea,Tartaruga,Sim,6.0,38
+Kléber Souza,Zeca,Cachorro,São Bernardo,Macho,Marrom e Branco,Sim,55.0,80
+Luisa Mendes,Penélope,Coelho,Holandês,Fêmea,Preto,Não,2.0,35
+Mario Costa,Floquinho,Gato,Persa,Macho,Cinza,Sim,5.4,26
+Neusa Pires,Lili,Cachorro,Pinscher,Fêmea,Vermelho,Não,3.5,25
+Osvaldo Rocha,Sam,Cachorro,Vira-Lata,Macho,Preto e Branco,Sim,16.5,54
+Paloma Gomes,Chico,Pássaro,Canário,Macho,Verde,Não,0.04,13
+Quirino Alvez,Lassie,Cachorro,Cocker Spaniel,Fêmea,Creme,Sim,12.5,46
+Rita Silva,Simba,Gato,Europeu,Macho,Laranja,Não,4.9,33
+Sérgio Melo,Kira,Cachorro,Husky Siberiano,Fêmea,Branco,Sim,20.0,55
+Telma Dias,Milo,Gato,American Shorthair,Macho,Prateado,Sim,5.1,34
+Ulisses Torres,Toby,Cachorro,Terrier Brasileiro,Macho,Branco e Preto,Não,7.5,33
+Vanda Barros,Jade,Roedor,Chinchila,Fêmea,Bege,Não,0.6,27
+Wellington Naves,Max,Cachorro,Basset Hound,Macho,Tricolor,Sim,26.0,33
+Xenia Pires,Cleo,Gato,Scottish Fold,Fêmea,Cinza e Branco,Sim,4.0,27
+Yuri Silva,Bolt,Cachorro,Whippet,Macho,Tigrado,Sim,14.0,50
+Zélia Costa,Amora,Gato,Vira-Lata,Fêmea,Cinza,Não,4.2,31
+Antônio Lima,Mike,Cachorro,Labrador,Macho,Chocolate,Sim,30.0,60
+Brenda Souza,Nala,Gato,Siamês,Fêmea,Creme,Sim,4.3,30
+Clóvis Mendes,Apolo,Cachorro,Pastor Alemão,Macho,Preto,Não,37.0,77
+Dalva Santos,Mia,Gato,Persa,Fêmea,Cinza,Sim,5.7,28
+Edivaldo Pires,Bidu,Cachorro,Poodle,Macho,Cinza,Sim,5.2,36
+Fabiana Rocha,Lorde,Gato,Vira-Lata,Macho,Tigrado,Não,4.6,33
+Genésio Gomes,Hera,Cachorro,Golden Retriever,Fêmea,Dourado,Sim,30.0,64
+Heloísa Vieira,Floquinho,Coelho,Mini Lop,Macho,Branco,Não,1.6,30
+Ítalo Alvez,Piu Piu,Pássaro,Calopsita,Fêmea,Amarelo,Não,0.1,20
+Júlia Melo,Fofucha,Cachorro,Shih Tzu,Fêmea,Marrom,Sim,7.2,25
+Kleber Dias,Sushi,Gato,Maine Coon,Macho,Malhado,Sim,7.8,42
+Lívia Torres,Brutus,Cachorro,Buldogue Francês,Macho,Creme,Sim,13.0,37
+Mário Barros,Jade,Gato,Ragdoll,Fêmea,Branco e Creme,Sim,6.5,37
+Noemi Nogueira,Pipoca,Cachorro,Yorkshire,Fêmea,Preto e Dourado,Não,3.1,28
+Otávio Lima,Cacau,Roedor,Porquinho-da-índia,Macho,Marrom,Não,1.2,27
+Patrícia Reis,Totó,Cachorro,Dachshund,Macho,Preto,Sim,10.5,32
+Quitéria Santos,Lana,Gato,Siamês,Fêmea,Creme,Sim,3.8,29
+Ricardo Ferreira,Hades,Cachorro,Rottweiler,Macho,Preto e Canela,Sim,40.0,68
+Sueli Costa,Duquesa,Cachorro,Vira-Lata,Fêmea,Bege,Não,16.0,53
+Tadeu Mendes,Milo,Gato,Sphynx,Macho,Cinza,Sim,5.0,32
+Ubirajara Pires,Rocky,Cachorro,Boxer,Macho,Dourado e Branco,Sim,29.0,63
+Valéria Rocha,Cleo,Gato,Bengal,Fêmea,Manchado,Não,5.0,34
+Washington Silva,Kaiser,Cachorro,Husky Siberiano,Macho,Preto e Branco,Sim,24.0,60
+Xuxa Lima,Luna,Cachorro,Chihuahua,Fêmea,Branco,Sim,2.0,20
+Yago Souza,Mingau,Gato,Vira-Lata,Macho,Laranja,Não,4.7,31
+Zeca Gomes,Penny,Cachorro,Cocker Spaniel,Fêmea,Preto,Sim,13.5,47
+Adriano Pires,Curio,Pássaro,Canário,Macho,Amarelo,Não,0.03,12
+Beatriz Melo,Bob,Cachorro,Bichon Frisé,Macho,Branco,Sim,6.0,30
+Carlos Dias,Tica,Gato,Persa,Fêmea,Creme,Não,5.5,28
+Denise Torres,Brutus,Cachorro,Buldogue Inglês,Macho,Vermelho,Sim,22.0,40
+Elias Barros,Pingo,Roedor,Hamster Sírio,Macho,Dourado,Não,0.15,10
+Fabíola Nogueira,Marley,Cachorro,Samoieda,Macho,Branco,Sim,24.0,55
+Geraldo Lima,Gata,Gato,Bombay,Fêmea,Preto,Sim,4.8,31
+Helena Santos,Tico,Cachorro,Pinscher,Macho,Preto e Canela,Não,3.8,27
+Igor Vieira,Fiona,Gato,Chartreux,Fêmea,Azul,Sim,6.2,39
+Jéssica Souza,Bolt,Cachorro,Beagle,Macho,Tricolor,Sim,12.5,39
+Kléber Mendes,Paco,Gato,American Shorthair,Macho,Tigrado,Não,5.2,35
+Lúcia Costa,Amora,Cachorro,Vira-Lata,Fêmea,Preto e Marrom,Sim,11.0,46
+Marcelo Pires,Sushi,Pássaro,Agapornis,Fêmea,Verde,Não,0.06,14
+Nina Rocha,Marley,Cachorro,Golden Retriever,Macho,Dourado,Sim,31.5,65
+Osmar Gomes,Cleo,Gato,Scottish Fold,Fêmea,Branco,Sim,4.5,29
+Paula Silva,Duque,Cachorro,Maltês,Macho,Branco,Sim,4.2,26
+Quirino Alvez,Juju,Gato,Ragdoll,Fêmea,Branco e Azul,Sim,5.5,34
+Renato Melo,Thor,Cachorro,Dogue Alemão,Macho,Manto,Não,78.0,94
+Sílvia Dias,Frajola,Gato,Europeu,Macho,Preto e Branco,Sim,5.0,34
+Tânia Torres,Rex,Cachorro,Pastor Belga Malinois,Macho,Marrom,Sim,29.0,60
+Ubiratan Barros,Kiko,Coelho,Gigante de Flandres,Macho,Cinza,Não,6.5,58
+Valdir Nogueira,Mel,Cachorro,Cavalier King Charles,Fêmea,Blenheim,Sim,7.0,32
+Wanda Lima,Romeu,Gato,Mau Egípcio,Macho,Dourado,Não,4.0,33
+Xavier Santos,Ariel,Cachorro,Vira-Lata,Fêmea,Caramelo,Não,15.5,51
+Yara Vieira,Odin,Roedor,Gerbil,Macho,Areia,Não,0.1,8
+Zeca Souza,Kira,Cachorro,Border Collie,Fêmea,Preto e Branco,Sim,19.5,52

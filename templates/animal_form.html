@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Identificar Animal</title>
+    <link rel="stylesheet" href="../static/animal.css">
+</head>
+<body>
+    <div class="container">
+        <a href="/" id="back"><span>< Voltar</span></a>
+
+        <h1>Identificar Animal</h1>
+        <form action="/identify_animal" method="post">
+            <label for="color">Cor:</label>
+            <select id="color" name="color" required>
+                <option value="" disabled selected hidden>Selecione</option>
+                <option value="marrom">Marrom</option>
+                <option value="cinza">Cinza</option>
+                <option value="preto">Preto</option>
+            </select>
+            
+            <label for="size">Tamanho:</label>
+            <select id="size" name="size" required>
+                <option value="" disabled selected hidden>Selecione</option>
+                <option value="pequeno">Pequeno</option>
+                <option value="médio">Médio</option>
+                <option value="grande">Grande</option>
+            </select>
+            
+            <label for="sound">Som:</label>
+            <select id="sound" name="sound" required>
+                <option value="" disabled selected hidden>Selecione</option>
+                <option value="latido">Latido</option>
+                <option value="miado">Miado</option>
+                <option value="rugido">Rugido</option>
+            </select>
+            
+            <input type="submit" value="Identificar">
+        </form>
+    </div>
+</body>
+</html>

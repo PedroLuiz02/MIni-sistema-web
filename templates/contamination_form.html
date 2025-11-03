@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../static/contamination.css">
+    <title>Geladeira Inteligente - Detectar Contaminação</title>
+</head>
+<body>
+    <div class="container">
+        <a href="/" id="back"><span>< Voltar</span></a>
+
+        <h1>Geladeira Inteligente - Detectar Contaminação</h1>
+        <form action="/detect_contamination" method="POST">
+            <label for="temperature">Temperatura da geladeira:</label>
+            <select name="temperature" id="temperature" required>
+                <option value="select" hidden>Selecione</option>
+                <option value="low">Baixa</option>
+                <option value="normal">Normal</option>
+                <option value="high">Alta</option>
+            </select>
+            <br><br>
+            <label for="has_mold">Presença de mofo:</label>
+            <select name="has_mold" id="has_mold" required>
+                <option value="select" hidden>Selecione</option>
+                <option value="yes">Sim</option>
+                <option value="no">Não</option>
+            </select>
+            <br><br>
+            <label for="expired_food">Alimentos fora da validade:</label>
+            <select name="expired_food" id="expired_food" required>
+                <option value="select" hidden>Selecione</option>
+                <option value="yes">Sim</option>
+                <option value="no">Não</option>
+            </select>
+            <br><br>
+            <label for="odor">Cheiro desagradável dentro da geladeira:</label>
+            <select name="odor" id="odor" required>
+                <option value="select" hidden>Selecione</option>
+                <option value="yes">Sim</option>
+                <option value="no">Não</option>
+            </select>
+            <br><br>
+            <label for="higienizacao">A geladeira foi limpa nos últimos 30 dias:</label>
+            <select name="higienizacao" id="higienizacao" required>
+                <option value="select" hidden>Selecione</option>
+                <option value="yes">Sim</option>
+                <option value="no">Não</option>
+            </select>
+            <br><br>
+            <input type="submit" value="Detectar" id="btn">
+        </form>
+    </div>
+</body>
+</html>
